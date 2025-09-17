@@ -1,1 +1,5 @@
-this is manu
+        int numbers[5] = {10, 20, 30, 40, 50}; // Initializes during declaration
+        // or
+        numbers[0] = 10; // Assigns values to individual elements
+        numbers[1] = 20;
+        // ...
